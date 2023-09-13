@@ -1,5 +1,5 @@
 $(function() {
-  $('#chage-color').on('click', function(){
+  $('#change-color').on('click', function(){
     $('#target').css('color', 'red');
   });
   $('#change-text').on('click', function() {
