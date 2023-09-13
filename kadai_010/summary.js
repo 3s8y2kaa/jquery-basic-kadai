@@ -6,11 +6,9 @@ $(function() {
     $('#target').text('Hello!');
   });
   $('#fade-out').on('click', function() {
-    // フェードアウトする
     $('#target').fadeOut();
   });
   $('#fade-in').on('click', function() {
-    // フェードアウトする
     $('#target').fadeIn();
   });
 });
